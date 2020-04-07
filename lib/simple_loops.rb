@@ -5,4 +5,5 @@ def loop_message_five_times(message)
   while count < message.length
     puts message[count]
     count += 1
+  end
 end
