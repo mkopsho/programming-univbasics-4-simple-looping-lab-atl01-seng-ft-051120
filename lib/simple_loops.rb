@@ -22,4 +22,8 @@ def output_array(array)
   end
 end
 
-def 
+def return_string_array(array)
+  count = 0
+  while count < array.length
+    
+end
